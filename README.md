@@ -185,7 +185,17 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 
+<h2>Would you like to help the project?</h2>
 
+ * Paypal donation: [![Paypal page](https://img.shields.io/badge/donate-Paypal-fd8200.svg)](your paypal account)
+ * Patreon subscription: [![Patreon subscription](https://img.shields.io/badge/subscribe-Patreon-orange.svg)](your Patreon)
+ * Ko-fi donation: [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](your ko_fi)
+<a href="https://www.buymeacoffee.com/zeedsadasda2323" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+ * Feedback (reporting bugs, ideas, etc) [![Author's Twitter](https://img.shields.io/badge/Twitter-%40NickeManarin-blue.svg)](your tweeter)
+ * [Anyone can still contribute to the localization of the app/website/installer](your project md.md)
+ * Create a review. :)
+ 
+ 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
