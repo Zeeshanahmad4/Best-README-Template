@@ -185,7 +185,17 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 
-
+Would you like to help the project?
+Paypal donation: Paypal page
+Patreon subscription: Patreon subscription
+Ko-fi donation: ko-fi
+Flattr subscription: https://flattr.com/@NickeManarin/domain/screentogif.com
+Steam wishlist: Steam wishlist
+GOG Galaxy wishlist: www.gog.com/u/Nickesm/wishlist
+Amazon wishlist: https://www.amazon.com/hz/wishlist/ls/QIO7LL4403NC?ref_=wl_share
+Feedback (reporting bugs, ideas, etc) Author's Twitter
+Anyone can still contribute to the localization of the app/website/installer
+Create a review. :)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
